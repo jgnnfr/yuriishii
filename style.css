@@ -4,7 +4,6 @@ html, body {
 	background: #ffe4e1;
 	overflow: hidden;
   }
-  
 span {
   font-size: 60px;
   font-family: 'Arial';
@@ -74,8 +73,7 @@ h3 span:nth-child(14) {
                              0 7px 0 #ccc,
                              0 8px 0 #ccc;
             }
-        }
-
+}
   .uno{
   	left: 0;
   	right: 0;
